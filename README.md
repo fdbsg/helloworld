@@ -1,0 +1,2 @@
+# helloworld
+bsg create
